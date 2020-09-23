@@ -1,5 +1,4 @@
-# Active Record Associations Introduction: Playlister
-
+# Active Record Associations Introduction: Playliste
 ## Objectives
 
 1. Understand how and why Active Record implements associations between models.
